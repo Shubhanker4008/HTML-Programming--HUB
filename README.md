@@ -14,4 +14,3 @@
 <p>Day 6: Use of div tag with style attributes.</p>
 <br>
 <p>Day 7: Use of pre tag.</p>
-<br>
