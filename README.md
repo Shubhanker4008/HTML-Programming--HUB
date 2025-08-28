@@ -11,3 +11,5 @@
 <br>
 <p>Day 5: Use of all heading tags.</p>
 <br>
+<p>Day 6: Use of div</p>
+<br>
