@@ -7,3 +7,5 @@
 <br>
 <p>Day 3: Use of all formatting tags.
 <br>
+<p>Day 4: Application of font tag and his attributes.</p>
+<br>
