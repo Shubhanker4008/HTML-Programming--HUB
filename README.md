@@ -5,3 +5,5 @@
 <br>
 <p>Day 2: My first web page include heading and paragraph.</p>
 <br>
+<p>Day 3: Use of all formatting tags.
+<br>
