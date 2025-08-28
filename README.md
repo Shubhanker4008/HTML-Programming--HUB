@@ -11,7 +11,7 @@
 <br>
 <p>Day 5: Use of all heading tags.</p>
 <br>
-<p>Day 6: Use of div tag with style attributes (Inline css)</p>
+<p>Day 6: Use of div tag with style attributes.</p>
 <br>
-<p>Day 7: Use of pre tag</p>
+<p>Day 7: Use of pre tag.</p>
 <br>
