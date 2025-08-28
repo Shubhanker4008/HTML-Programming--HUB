@@ -9,3 +9,5 @@
 <br>
 <p>Day 4: Application of font tag and his attributes.</p>
 <br>
+<p>Day 5: Use of all heading tags.</p>
+<br>
