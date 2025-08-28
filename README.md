@@ -1,1 +1,1 @@
-#  This is Manual of HTML practices
+# This is Manual of HTML practices
