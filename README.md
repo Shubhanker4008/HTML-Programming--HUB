@@ -29,6 +29,13 @@
 <br>
 <p>Day 14. list : ordered and unorder list / Define list</p>
 <br>
+<p>Day 15. Use form tage and use feildset and legend tag for student resistration form creation</p>
+<br>
+<p>Day 16. Student resistration form </p>
+<br>
+<p>Day 17. Use of section tag </p>
+<br>
+
 
 
 
