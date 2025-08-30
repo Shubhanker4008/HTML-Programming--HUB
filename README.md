@@ -15,3 +15,14 @@
 <br>
 <p>Day 7: Use of pre tag.</p>
 <br>
+<p>Day 8: Use of hr tag.</p>
+<br>
+<p>Day 9: Use of quote tag.</p>
+<br>
+<p>Day 10: Use of Hyperlink tag and attributes.</p>
+<br>
+<p>Day 11: Use of anchor tag and link another file.</p>
+<br>
+
+
+
