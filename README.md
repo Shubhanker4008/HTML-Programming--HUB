@@ -23,6 +23,10 @@
 <br>
 <p>Day 11: Use of anchor tag and link another file.</p>
 <br>
+<p>Day 12. Table tag</p>
+<br>
+<p>Day 13. TD colspan / row span attributes</p>
+<br>
 
 
 
